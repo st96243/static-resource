@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "NCU_Live2D.moc3",
+		"Textures": [
+			"NCU_Live2D.4096/texture_00.png"
+		],
+		"Physics": "NCU_Live2D.physics3.json",
+		"DisplayInfo": "NCU_Live2D.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
